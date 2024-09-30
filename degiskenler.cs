@@ -20,7 +20,7 @@ namespace degisken
             Int64 i62 = 2;      //8 byte
 
             uint ui = 2;        //4 byte
-            long l = 4;         //8 nyte
+            long l = 4;         //8 byte
             ulong ul = 4;       //8 byte
 
             //reel sayılar
